@@ -1,2 +1,2 @@
-# DAVIAN-RL-Paper-Study
+# DAVIAN-RL-Study
 
