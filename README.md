@@ -13,7 +13,7 @@
 - 박준우 - 2021.10.15 ~ Present (Davian 연구실)
 - 김동민 - 2021.10.15 ~ Present (Davian 연구실)
 - 박채훈 - 2021.10.15 ~ Present (Davian 연구실)
-- 이관호 - 2021.10.15 ~ Present (Davian 연구실 입학 예정)
+- 이관호 - 2021.10.15 ~ Present (Davian 연구실 학부연구생)
 - 박세직 - 2021.10.15 ~ Present (Davian 연구실 학부연구생)
 - 이한얼 - 2021.10.15 ~ Present (Davian 연구실 학부연구생)
 
