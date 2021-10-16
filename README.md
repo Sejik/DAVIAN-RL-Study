@@ -17,5 +17,5 @@
 
 |       Date       | Week | Topic | Presenters | Slides |
 |:----------------:|:------:|:----------------------------------------:|:----------:|:------:|
-| 2021.10.15 | Week01 | CS285 Lec2 : Supervised Learning of Behaviors | 이관호 | [Video](https://drive.google.com/file/d/1NBXeAZZpj224r8iPgYQaZPtY6w8W5Ivy/view?usp=sharing) |
-| 2021.10.15 | Week01 | CS285 Lec4 : Introduction to Reinforcement Learning | 이호준 | [Video](https://drive.google.com/file/d/1bEqvOItvovU-De7J0eXKw5-guxELlf0W/view?usp=sharing) |
+| 2021.10.15 | Week01 | CS285 Lec2 : Supervised Learning of Behaviors | 이관호 | [Video](https://drive.google.com/file/d/1bEqvOItvovU-De7J0eXKw5-guxELlf0W/view?usp=sharing) |
+| 2021.10.15 | Week01 | CS285 Lec4 : Introduction to Reinforcement Learning | 이호준 | [Video](https://drive.google.com/file/d/1NBXeAZZpj224r8iPgYQaZPtY6w8W5Ivy/view?usp=sharing) |
