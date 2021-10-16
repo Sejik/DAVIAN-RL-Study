@@ -1,7 +1,7 @@
 # DAVIAN-RL-Study
 
 #### 스터디 계획
-- 2021.10 ~ 2021.12 : [CS285](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/)
+- 2021.10 ~ 2021.12 : [CS285](http://rail.eecs.berkeley.edu/deeprlcourse-fa20/) at UC Berkeley
 - 2022.1 ~          : 논문 스터디
 
 #### 스터디 참여자 (Current)
