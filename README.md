@@ -27,3 +27,4 @@
 | 2021.10.22 | Week02 | CS285 Lec6 : Actor-Critic Algorithms | 이호준, 황동윤 | [Video](https://drive.google.com/file/d/1hAYsvYwQT9AKiqUGN69TgNAuiq3pFykX/view?usp=sharing) |
 | 2021.10.29 | Week03 | CS285 Lec7 : Value Function Methods | 박세직 | [Video](https://drive.google.com/file/d/1dRWm9Jtsq2g4HDwjW2nTr45ghtAeJY1Y/view?usp=sharing) |
 | 2021.10.29 | Week03 | CS285 Lec8 : Deep RL with Q-functions | 박세직 | [Video](https://drive.google.com/file/d/19McQGyfhVE3jWDWFX1Z3GEbArzqO1vSh/view?usp=sharing) |
+| 2021.11.05 | Week04 | CS285 Lec9 : Advanced Policy Gradients| 황동윤 | [Video](https://drive.google.com/file/d/1wCaMzjrxL8RLL1SeYszeAdDeOF_2C9Zi/view?usp=sharing) |
